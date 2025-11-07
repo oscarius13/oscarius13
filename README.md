@@ -42,9 +42,7 @@ Desarrollador especializado en crear interfaces modernas y experiencias de usuar
 
 ### Proyectos Destacados
 
-- **[Nombre App Móvil](link-repo)** - App React Native con Expo | [Demo APK](link)
-- **[App RRHH](link-repo)** - Stack MERN + Laravel | [Demo](link)
-- **[Otro Proyecto](link-repo)** - Breve descripción
+- **[MushRoom](link-repo)** - App React Native con Expo | [Demo APK](link)
 
 ### Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscargomezbartolome)
