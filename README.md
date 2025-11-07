@@ -8,7 +8,7 @@ Desarrollador especializado en crear interfaces modernas y experiencias de usuar
 - Actualmente buscando oportunidades
 - Aprendiendo: TypeScript avanzado, Testing con Jest, Next.js
 - Buscando colaborar en: Proyectos open source de React/React Native
-- Contacto: oscariusgomez@gmail.com |  https://linkedin.com/in/oscargomezbartolome
+- Contacto: oscariusgomez@gmail.com
 - 📍 Ubicación: Madrid, España
 
 ### Stack Técnico
@@ -34,22 +34,21 @@ Desarrollador especializado en crear interfaces modernas y experiencias de usuar
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 📊 GitHub Stats
+### GitHub Stats
 
-![Tus stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
+![Tus stats](https://github-readme-stats.vercel.app/api?username=oscarius13&show_icons=true&theme=radical&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarius13&layout=compact&theme=radical)
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
-- 📱 **[Nombre App Móvil](link-repo)** - App React Native con Expo | [Demo APK](link)
-- 💼 **[App RRHH](link-repo)** - Stack MERN + Laravel | [Demo](link)
-- 🎨 **[Otro Proyecto](link-repo)** - Breve descripción
+- **[Nombre App Móvil](link-repo)** - App React Native con Expo | [Demo APK](link)
+- **[App RRHH](link-repo)** - Stack MERN + Laravel | [Demo](link)
+- **[Otro Proyecto](link-repo)** - Breve descripción
 
-### 🌐 Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](tu-linkedin)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=61DAFB)](tu-portfolio)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu-email)
+### Encuéntrame en:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscargomezbartolome)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oscariusgomez@gmail.com)
 
 ---
-💡 _"Código limpio, UX fluidas, aprendizaje continuo"_
+_"Código limpio, UX fluidas, aprendizaje continuo"_
