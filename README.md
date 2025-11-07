@@ -34,15 +34,9 @@ Desarrollador especializado en crear interfaces modernas y experiencias de usuar
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### GitHub Stats
-
-![Tus stats](https://github-readme-stats.vercel.app/api?username=oscarius13&show_icons=true&theme=radical&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarius13&layout=compact&theme=radical)
-
 ### Proyectos Destacados
 
-- **[MushRoom](link-repo)** - App React Native con Expo | [Demo APK](link)
+- **[MushRoom](https://github.com/oscarius13/mush-room)** - App React Native con Expo | [Demo APK](https://github.com/oscarius13/mush-room/releases/tag/MushRoom)
 
 ### Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscargomezbartolome)
